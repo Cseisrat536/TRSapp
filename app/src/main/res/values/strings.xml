@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TRS</string>
+    <string name="Button">Login</string>
+    <string name="text1">Welcome to Travelling Residience Solution</string>
+    <string name="Button2"> Create Account</string>
+    <string name="login">Login</string>
+    <string name="edittext1">Email</string>
+    <string name="edittext2">Password</string>
+    <string name="edittext3">First Name</string>
+    <string name="edittext4">Last Name</string>
+    <string name="text3">Your email?</string>
+    <string name="text4">Create a password</string>
+    <string name="text5">Your password must include at least\none symbol and be 8 or more characters long.</string>
+    <string name="home1">2 bedrooms with great environment.</string>
+    <string name="home2">1 bedroom with attach</string>
+
+    <array name="areaList">
+        <item>Shamoly</item>
+        <item>Kalabagan</item>
+        <item>Dhanmondi</item>
+        <item>Mirpur</item>
+        <item>Bosila</item>
+        <item>Uttara</item>
+        <item>Katabon</item>
+        <item>Shahabag</item>
+        <item>Gulistan</item>
+        <item>Polton</item>
+        <item>Geenroad</item>
+        <item>Panthapath</item>
+        <item>Mohakhali</item>
+        <item>Banani</item>
+        <item>Gulshan</item>
+
+
+    </array>
+    <!--String name="host_1">HostLayout</String-->
+
+
+</resources>

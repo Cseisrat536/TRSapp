@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918311385750",
+    "firebase_url": "https://trsapp-74ea6.firebaseio.com",
+    "project_id": "trsapp-74ea6",
+    "storage_bucket": "trsapp-74ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918311385750:android:7b571d63c5a2a439",
+        "android_client_info": {
+          "package_name": "com.example.trsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918311385750-mqcfbnji98l3rju0vfl6a4t1g6q09dvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trsapp",
+            "certificate_hash": "c6790f87cdc08d7041ab03a881d817af2d01b4ac"
+          }
+        },
+        {
+          "client_id": "918311385750-nlhqh764o2uddjicmvblk0bfa4o3bpe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgddV9gTgRgAsS1HP47v7vwTRInpbJJFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918311385750-nlhqh764o2uddjicmvblk0bfa4o3bpe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
