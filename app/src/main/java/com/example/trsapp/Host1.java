@@ -29,6 +29,7 @@ public class Host1 extends AppCompatActivity implements View.OnClickListener {
             //
 
         }
-
+        else{
+        }
     }
 }
