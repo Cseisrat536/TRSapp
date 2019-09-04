@@ -26,10 +26,8 @@ public class Host1 extends AppCompatActivity implements View.OnClickListener {
         {
             Intent intent = new Intent(getApplicationContext(),host2.class);
             startActivity(intent);
-            //
 
         }
-        else{
-        }
-    }
+
+}
 }
